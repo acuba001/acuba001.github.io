@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/acuba001/acuba001.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +34,51 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
+
+## Portfolio of Andres M. Cubas
+
+San Francisco Bay Area
+
+### Objective
+
+A motivated post-graduate of Mathematics and graduate of Computer Science with excellent educational credentials and
+academic research and project experience. Aspiring to pursue career opportunities in software engineering with a high profile
+organization that rewards hard work and appreciates ability and loyalty. Demonstrate excellent interpersonal and research
+abilities with flexibility and analytical skills and a keen eye for details. Collaborate with cross-functional teams to successfully
+achieve business goals. Conversant with creating and modifying the processes to increase productivity through process
+improvement with an aptitude for innovation and creative problem solving. Language Fluency: English & Spanish.
+
+### Education
+
+Master of Science in Mathematics @ Florida International University 
+  - Miami, FL 
+  - Graduation Date: May 2017
+
+Bachelor of Science in Computer Science & Mathematics @ Florida International University
+  - Miami, FL
+  - December 2015
+
+### Organizations & Affiliates
+
+- FIU Math Club Executive Board member 2011-2015 (President 2013-2015)
+- FIU Ronald E. McNair Scholar (10th cohort) 2013
+
+### Work Experience
+
+- Contractor @ Samana Group LLC.
+- Contractor @ Milton Cubas P.E., INC.
+
+### Research/Projects
+
+- “Using Persistence Homology as a Means to Classify Fingerprint Data” at Florida International University – Jan 2016-Jul 2017
+- Web Developer for Dyna-Math Website at Florida International University – Aug-Dec 2016
+- NSWC Crane Research Assistant at Florida International University – Aug-Dec 2016
+- Research in Almost Complex Structures on 4-dimensional Lie Algebras at Florida International University – Jan-May 2014
+- Research in Online Linear Discriminant Analysis, SROP at Michigan State University – June-Aug 2013
+
+### Find Me Also at
+
+- [LinkedIn](linkedin.com/in/andresmcubas)
+- [Github](https://github.com/acuba001)
+- [Github](https://github.com/acubas)
