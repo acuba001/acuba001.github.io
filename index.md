@@ -49,13 +49,28 @@ abilities with flexibility and analytical skills and a keen eye for details. Col
 achieve business goals. Conversant with creating and modifying the processes to increase productivity through process
 improvement with an aptitude for innovation and creative problem solving. Language Fluency: English & Spanish.
 
+### Work Experience
+
+- Software Consultant @ Milton Cubas P.E., INC.
+- Software Consultant @ Samana Group LLC.
+  * [Monitoring Agent](https://github.com/samanamonitor/Monitoring_Agent)
+  * [NetPivot](https://github.com/fabbaena/NetPivot)
+
+### Research/Projects
+
+- “Using Persistence Homology as a Means to Classify Fingerprint Data” at Florida International University – Jan 2016-Jul 2017
+- Web Developer for Dyna-Math Website at Florida International University – Aug-Dec 2016
+- NSWC Crane Research Assistant at Florida International University – Aug-Dec 2016
+- Published Research in Almost Complex Structures on 4-dimensional Lie Algebras at Florida International University in the *Journal of Geometry and Physics*. Found [here](https://doi.org/10.1016/j.geomphys.2015.08.020) – Jan-May 2014
+- Research in Online Linear Discriminant Analysis, SROP at Michigan State University – June-Aug 2013
+
 ### Education
 
 Master of Science in Mathematics @ Florida International University 
   - Miami, FL 
   - Graduation Date: May 2017
 
-Bachelor of Science in Computer Science & Mathematics @ Florida International University
+Bachelor of Science in Computer Science & Bachelor of Science in Mathematics @ Florida International University
   - Miami, FL
   - December 2015
 
@@ -63,19 +78,6 @@ Bachelor of Science in Computer Science & Mathematics @ Florida International Un
 
 - FIU Math Club Executive Board member 2011-2015 (President 2013-2015)
 - FIU Ronald E. McNair Scholar (10th cohort) 2013
-
-### Work Experience
-
-- Contractor @ Samana Group LLC.
-- Contractor @ Milton Cubas P.E., INC.
-
-### Research/Projects
-
-- “Using Persistence Homology as a Means to Classify Fingerprint Data” at Florida International University – Jan 2016-Jul 2017
-- Web Developer for Dyna-Math Website at Florida International University – Aug-Dec 2016
-- NSWC Crane Research Assistant at Florida International University – Aug-Dec 2016
-- Research in Almost Complex Structures on 4-dimensional Lie Algebras at Florida International University – Jan-May 2014
-- Research in Online Linear Discriminant Analysis, SROP at Michigan State University – June-Aug 2013
 
 ### Find Me Also at
 
