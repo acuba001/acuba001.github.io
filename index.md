@@ -59,7 +59,7 @@ improvement with an aptitude for innovation and creative problem solving. Langua
 ### Research/Projects
 
 - “Using Persistence Homology as a Means to Classify Fingerprint Data” at Florida International University – Jan 2016-Jul 2017
-- Web Developer for Dyna-Math Website at Florida International University – Aug-Dec 2016
+- Dyna-Math Website, Senior Project at Florida International University. Found [here](https://github.com/FIU-SCIS-Senior-Projects/Dynamic-Mathematics-Priciples). – Aug-Dec 2016
 - NSWC Crane Research Assistant at Florida International University – Aug-Dec 2016
 - Published Research in Almost Complex Structures on 4-dimensional Lie Algebras at Florida International University in the *Journal of Geometry and Physics*. Found [here](https://doi.org/10.1016/j.geomphys.2015.08.020) – Jan-May 2014
 - Research in Online Linear Discriminant Analysis, SROP at Michigan State University – June-Aug 2013
@@ -82,5 +82,5 @@ Bachelor of Science in Computer Science & Bachelor of Science in Mathematics @ F
 ### Find Me Also at
 
 - [LinkedIn](linkedin.com/in/andresmcubas)
-- [Github](https://github.com/acuba001)
-- [Github](https://github.com/acubas)
+- [Github user acuba001](https://github.com/acuba001)
+- [Github user acubas](https://github.com/acubas)
