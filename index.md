@@ -50,7 +50,8 @@ achieve business goals. Conversant with creating and modifying the processes to 
 improvement with an aptitude for innovation and creative problem solving. Language Fluency: English & Spanish.
 
 ### Work Experience
-
+- Web Developer for Sense Makes Math
+  * [Sense Makes Math](https://github.com/acuba001/Sense_Makes_Math)
 - Software Consultant @ Milton Cubas P.E., INC.
 - Software Consultant @ Samana Group LLC.
   * [Monitoring Agent](https://github.com/samanamonitor/Monitoring_Agent)
