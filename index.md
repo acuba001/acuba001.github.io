@@ -82,6 +82,5 @@ Bachelor of Science in Computer Science & Bachelor of Science in Mathematics @ F
 
 ### Find Me Also at
 
-- [LinkedIn](linkedin.com/in/andresmcubas)
 - [Github user acuba001](https://github.com/acuba001)
 - [Github user acubas](https://github.com/acubas)
