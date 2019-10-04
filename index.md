@@ -51,11 +51,11 @@ improvement with an aptitude for innovation and creative problem solving. Langua
 
 ### Work Experience
 - Web Developer for [Sense Makes Math](https://www.sensemakesmath.com)
-  * [Sense Makes Math](https://github.com/acuba001/Sense_Makes_Math)
+  * [Sense Makes Math repo](https://github.com/acuba001/Sense_Makes_Math)
 - Software Consultant @ Milton Cubas P.E., INC.
 - Software Consultant @ Samana Group LLC.
-  * [Monitoring Agent](https://github.com/samanamonitor/Monitoring_Agent)
-  * [NetPivot](https://github.com/fabbaena/NetPivot)
+  * [Monitoring Agent repo](https://github.com/samanamonitor/Monitoring_Agent)
+  * [NetPivot repo](https://github.com/fabbaena/NetPivot)
 
 ### Research/Projects
 
