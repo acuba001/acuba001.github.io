@@ -74,7 +74,7 @@ Master of Science in Mathematics @ Florida International University
 
 Bachelor of Science in Computer Science & Bachelor of Science in Mathematics @ Florida International University
   - Miami, FL
-  - December 2015
+  - Graduation Date: December 2015
 
 ### Organizations & Affiliates
 
