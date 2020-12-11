@@ -55,7 +55,7 @@ improvement with an aptitude for innovation and creative problem solving. Langua
   * [Monitoring Agent repo](https://github.com/samanamonitor/Monitoring_Agent)
   * [NetPivot repo](https://github.com/fabbaena/NetPivot)
 - Faculty Adjunct @ Miami-Dade College
-- Web Developer for [Sense Makes Math](https://www.sensemakesmath.com)
+- Web Developer for Sense Makes Math
   * [Sense Makes Math repo](https://github.com/acuba001/Sense_Makes_Math)
 - Software Consultant @ Milton Cubas P.E., INC.
   * [F&L A/C Aluminum Stand Design repo](https://github.com/acuba001/F-L-A-C-Aluminum-Stand-Design-NOA). Hosted at: [design.fandlaluminumparts.com](https://design.fandlaluminumparts.com/)
