@@ -50,8 +50,11 @@ achieve business goals. Conversant with creating and modifying the processes to 
 improvement with an aptitude for innovation and creative problem solving. Language Fluency: English & Spanish.
 
 ### Work Experience
-- Software Consultant @ Samana Group LLC.
-  * Porting AWS/Podio/Nexmo on-call phone system to AWS/ITop/Nexmo system.
+- Co-founder of [Combinatronix Labs](https://github.com/Combinatronix-Labs), LLC.
+  * Lead Full-Stack developer for Maiden. SaaS client for task management, accountability management, and employee performance analytics for franchise restaurants.
+  * Lead Flutter Mobile Developer for the Maiden Project
+- Software Consultant @ [Samana Group](https://github.com/samanamonitor) LLC.
+  * Porting AWS/Podio/Nexmo on-call phone system to [ITop phone system](https://github.com/samanamonitor/itop-install).
   * [Monitoring Agent repo](https://github.com/samanamonitor/Monitoring_Agent)
   * [NetPivot repo](https://github.com/fabbaena/NetPivot)
 - Faculty Adjunct @ Miami-Dade College
