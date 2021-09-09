@@ -51,7 +51,7 @@ improvement with an aptitude for innovation and creative problem solving. Langua
 
 ### Work Experience
 - Co-founder of [Combinatronix Labs](https://github.com/Combinatronix-Labs), LLC.
-  * Lead Full-Stack developer for Maiden. SaaS client for task management, accountability management, and employee performance analytics for franchise restaurants.([android](https://play.google.com/store/apps/details?id=com.combinatronixlabs.maiden_flutter.prod)) (iOS coming soon...)
+  * Lead Full-Stack developer for Maiden. SaaS client for task management, accountability management, and employee performance analytics for franchise restaurants.([web app](https://projectmaiden.org/home))([android](https://play.google.com/store/apps/details?id=com.combinatronixlabs.maiden_flutter.prod)) (iOS coming soon...)
   * Lead Flutter Mobile Developer for the Maiden Project
 - Software Consultant @ [Samana Group](https://github.com/samanamonitor) LLC.
   * Porting AWS/Podio/Nexmo on-call phone system to [ITop phone system](https://github.com/samanamonitor/itop-install).
